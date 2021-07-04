@@ -1,0 +1,16 @@
+//Shira Yodaiken 315119461 
+//Beila Wellner 205823792
+
+class Main
+{
+    function void main() {
+		
+		var RainOfStones game;		
+
+        let game = RainOfStones.new();
+        do game.run();
+		do game.dispose();
+		
+        return;
+    }
+}
